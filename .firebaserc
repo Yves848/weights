@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "advalvas-4ddf0": {
+      "hosting": {
+        "weights": [
+          "advalvas-4ddf0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "advalvas-4ddf0"
+  }
+}
